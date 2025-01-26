@@ -99,7 +99,3 @@ config
 
 ## License
 This project is licensed under the MIT License.
-```
-
-Feel free to customize the `README.md` file according to your project's specific details and requirements.
-Feel free to customize the `README.md` file according to your project's specific details and requirements.
